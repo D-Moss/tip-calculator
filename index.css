@@ -5,6 +5,11 @@
 body {
 	background-color: #f2f2f2;
 	font-family: "Helvetica", sans-serif;
+	background: url("https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmUwc3R3dXB0N3A1ZWFnamo0cjZoamlzemVwZzQ1b3NtN3V5bTVmaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9rvBJe0O7gJAwmEZLm/giphy.gif");
+	background-repeat: no-repeat;
+	background-size: contain;
+	background-position: center;
+	background-color: #15191f;
 }
 
 .container {
